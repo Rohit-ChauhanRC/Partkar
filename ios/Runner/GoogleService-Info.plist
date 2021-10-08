@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88483013549-88m7g8gmpkimaur0jfpo8ii7lb1vim8o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88483013549-88m7g8gmpkimaur0jfpo8ii7lb1vim8o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBa7JeVDKMbPB8U4GlbdUqil1ScGvA7djY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88483013549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.centennialsoftware.partaker</string>
+	<key>PROJECT_ID</key>
+	<string>agape-cca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agape-cca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88483013549:ios:52e4aaabd6f2528e0b7724</string>
+</dict>
+</plist>

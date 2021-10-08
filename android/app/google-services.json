@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88483013549",
+    "project_id": "agape-cca",
+    "storage_bucket": "agape-cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88483013549:android:1a11c6fc73578c850b7724",
+        "android_client_info": {
+          "package_name": "com.centennialsoftware.partaker.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88483013549-ok67hcieu62ijf1qaj10c4dnk6sc04mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcEHxgBWbMSs0m_eGrdqN02Tb4DGcBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88483013549-ok67hcieu62ijf1qaj10c4dnk6sc04mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
